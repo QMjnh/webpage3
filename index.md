@@ -1,7 +1,3 @@
----
-title: Home
-layout: home
----
 
 # convoi
 
